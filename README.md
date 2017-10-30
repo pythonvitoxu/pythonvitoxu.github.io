@@ -1,6 +1,6 @@
 # pythonvitoxu.github.io
 
-# 文章生成
+#文章生成
 ```
 pelican content
 ```
