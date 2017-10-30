@@ -5,6 +5,12 @@
 pelican content
 ```
 
+#本地允许博客
+```
+cd ~/project/yoursite/output
+python -m pelican.server
+```
+
 #创建本地版本库
 ```
 git init
